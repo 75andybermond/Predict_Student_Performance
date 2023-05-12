@@ -15,7 +15,7 @@
 14 studytime - weekly study time (numeric: 1 - <2 hours, 2 - 2 to 5 hours, 3 - 5 to 10 hours, or 4 - >10 hours)
 15 failures - number of past class failures (numeric: n if 1<=n<3, else 4)
 16 schoolsup - extra educational support (binary: yes or no)
-17 famsup - family educational support (binary: yes or no)
+17 famsup - fa  mily educational support (binary: yes or no)
 18 paid - extra paid classes within the course subject (Math or Portuguese) (binary: yes or no)
 19 activities - extra-curricular activities (binary: yes or no)
 20 nursery - attended nursery school (binary: yes or no)
